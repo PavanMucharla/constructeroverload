@@ -1,4 +1,4 @@
 public class Address {
-    String Hno;
-    String city;
+    public String Hno;
+    public String city;
 }
